@@ -1,3 +1,8 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-cayman
+title: HaGIL HandGest Dataset
+description: A static hand gestures dataset presented with HaGIl (Hand Gesture Incremental Learning) 
+show_downloads: true
+
+github:
+  zip_url: https://drive.google.com/drive/folders/1YLM0orUWULKnJXmOl0qVSymYVxt3a1SU?usp=sharing
+  drive_url: https://drive.google.com/drive/folders/1YLM0orUWULKnJXmOl0qVSymYVxt3a1SU?usp=sharing
